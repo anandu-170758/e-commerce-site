@@ -13,7 +13,10 @@ function App() {
   },[])
   return (
     <div className="App">
-     HI
+    {
+    results.map(d=>(
+      <div key={d.id}>{d.tittle}</div>
+    ))}
     </div>
   );
 }
