@@ -1,0 +1,13 @@
+{
+    "categories":[
+        {"id":1,"tittle":"Fridges"},
+        {"id":2,"tittle":"Television"},
+        {"id":3,"tittle":"Cell Phone"}
+    ],
+    "products":[
+        {"id":1,"tittle":"Whirl Pool Fridge"},
+        {"id":2,"tittle":"panasonic LCD TV"},
+        {"id":3,"tittle":"Samsung S3"}
+
+    ]
+}
