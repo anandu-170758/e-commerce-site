@@ -5,9 +5,9 @@
         {"id":3,"tittle":"Cell Phone"}
     ],
     "products":[
-        {"id":1,"tittle":"Whirl Pool Fridge"},
-        {"id":2,"tittle":"panasonic LCD TV"},
-        {"id":3,"tittle":"Samsung S3"}
+        {"id":1,"catId":1,"tittle":"Whirl Pool Fridge"},
+        {"id":2,"catId":1,"tittle":"panasonic LCD TV"},
+        {"id":3,"catId":1,"tittle":"Samsung S3"}
 
     ]
 }
