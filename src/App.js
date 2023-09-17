@@ -12,12 +12,24 @@ function App() {
     })
   },[])
   return (
-    <div className="App">
+    <>
+    <header>My Store</header>
+    <section>
+<nav>
     {
     results.map(d=>(
       <div key={d.id}>{d.tittle}</div>
     ))}
-    </div>
+    </nav>
+    <article>
+      main area
+    </article>
+    </section>
+    <footer>
+      footer
+    </footer>
+   
+    </>
   );
 }
 
